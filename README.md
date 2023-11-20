@@ -1,4 +1,4 @@
 # Projet par matlab 
-this project is java
+Cette  projet en matlab 
 
-creation de application comme photoshop par GUI matlab
+Creation de application comme photoshop par GUI matlab
